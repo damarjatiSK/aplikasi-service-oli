@@ -1,0 +1,7 @@
+{
+  "name": "service-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
